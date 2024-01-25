@@ -1,0 +1,9 @@
+{
+  "cardconf":"32MSB",
+  "protocol":"Wiegand",
+  "Id":0,
+  "Baudrateosdp":9600,
+  "BaudrateQr":9600,
+  "CompanyID":"2C2599B0",
+  "Ver":"1.0.21"
+}
