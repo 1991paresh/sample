@@ -6,4 +6,5 @@
 "5":"ledtest.mpy",
 "6":"main.py",
 "7":"myi2c.mpy",
-"8":"myuartwigand.mpy"}
+"8":"myuartwigand.mpy"
+"9":"config.json"}
