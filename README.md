@@ -1,4 +1,4 @@
-{"Ver":"2.0.01",
+{"Ver":"1.0.32",
 "1":"ble_advertising.mpy",
 "2":"ble_simple_peripheral.mpy",
 "3":"dyqrdecrypt.mpy",
