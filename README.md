@@ -1,6 +1,6 @@
 {"Ver":"1.0.32",
-"1":"ble_advertising.mpy",
-"2":"ble_simple_peripheral.mpy",
+"1":"ble_simple_peripheral.mpy",
+"2":"ble_advertising.mpy",
 "3":"dyqrdecrypt.mpy",
 "4":"i2c.mpy",
 "5":"ledtest.mpy",
